@@ -1,0 +1,3 @@
+# O sistema usa apenas a biblioteca padrão do Python.
+# O pytest só é necessário para rodar os testes.
+pytest
